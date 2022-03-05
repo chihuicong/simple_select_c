@@ -1,0 +1,3 @@
+/home/chihuicong/文档/pthreadLearning/select/build/CMakeFiles/edit_cache.dir
+/home/chihuicong/文档/pthreadLearning/select/build/CMakeFiles/rebuild_cache.dir
+/home/chihuicong/文档/pthreadLearning/select/build/CMakeFiles/select.dir

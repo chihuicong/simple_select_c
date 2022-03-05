@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chihuicong/文档/pthreadLearning/select/select.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/select.h
+-
+sys/socket.h
+-
+sys/time.h
+-
+arpa/inet.h
+-
+algorithm
+-
+string
+-
+
